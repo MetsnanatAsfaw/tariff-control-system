@@ -6,18 +6,20 @@ Problem of transportation is common in our country . We dare to say we all face 
 
 #Business feature
 This software system is a web application which will-
-•	It will enable a passenger to check the tariff. 
-•	It allow registered users to report when they face illegal tax raise. 
-•	It allow authorized person to check number of records.
+-	It will enable a passenger to check the tariff. 
+-	It allow registered users to report when they face illegal tax raise. 
+-	It allow authorized person to check number of records.
 The system contains a database which provides 
 -	List of station with their tariff
 -	List of cities in Ethiopia with their tariff from addis ababa.
 -	List of traffic’s name and ID
 
 we have two interface one for the user to login and other for traffic to login so we need both authentication and authorization:
+
 authentication- identity of the user has to be verified using password and email.
               - identity of authorized user for example tiraffic is checked using identity number(ID) in addition to password and email.
+              
 authorization- all users of the system have privilege to check tariff. In addition registered user have privilege to report illegal tariff raise scenario.
-              - the system give permission to authorized user to check drivers record.
+              -the system give permission to authorized user to check drivers record.
               - the system grant permission to authorized user to create,read,update and delete database.
 
