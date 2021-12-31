@@ -14,7 +14,7 @@ This software system is a web application which-
 For persisting the data, we will use MySQL. It will contain:
 -	List of station with their tariff
 -	List of cities in Ethiopia with their tariff from addis ababa.
--	list of registered users' name and password.
+-	list of registered users' name,email or phone number and password.
 -	List of traffic’s name and ID
 
 we have two interface one for the user to login and other for traffic to login so we need both authentication and authorization:
