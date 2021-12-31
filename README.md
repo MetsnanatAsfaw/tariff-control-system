@@ -10,7 +10,7 @@ This software system is a web application which-
 -	allow registered users to report when they face illegal tax raise. 
 -	allow authorized person to check number of records.
 
-The system contains a database which provides 
+For persisting the data, we will use MySQL. It will contain:
 -	List of station with their tariff
 -	List of cities in Ethiopia with their tariff from addis ababa.
 -	List of traffic’s name and ID
