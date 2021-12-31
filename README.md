@@ -35,4 +35,4 @@ Group members
 - JEBESSA DEJENE            UGR/0459/12             1
 - NAOL KECHA                UGR/6903/12             1
 - ABEL MEKONEN              UGR/7784/12             1
-- METSNANAT ASFAW           UGR/7631/12             1
+  METSNANAT ASFAW           UGR/7631/12             1
