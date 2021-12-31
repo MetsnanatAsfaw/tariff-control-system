@@ -30,9 +30,9 @@ authorization
 
 
 Group members
-   Name                       iD                  Section
+   Name                       ID                  Section
 - LIBAN ABDUBA              UGR/3781/12             1
 - JEBESSA DEJENE            UGR/0459/12             1
 - NAOL KECHA                UGR/6903/12             1
 - ABEL MEKONEN              UGR/7784/12             1
-  METSNANAT ASFAW           UGR/7631/12             1
+- METSNANAT ASFAW           UGR/7631/12             1
