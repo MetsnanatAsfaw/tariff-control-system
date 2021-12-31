@@ -7,12 +7,14 @@ Problem of transportation is common in our country . We dare to say we all face 
 #Business feature
 This software system is a web application which-
 -	will enable a passenger to check the tariff. 
+-	allow user to create account, change profile,to delete account.
 -	allow registered users to report when they face illegal tax raise. 
 -	allow authorized person to check number of records.
 
 For persisting the data, we will use MySQL. It will contain:
 -	List of station with their tariff
 -	List of cities in Ethiopia with their tariff from addis ababa.
+-	list of registered users' name and password.
 -	List of traffic’s name and ID
 
 we have two interface one for the user to login and other for traffic to login so we need both authentication and authorization:
@@ -30,7 +32,7 @@ authorization
 Group members
    Name                       iD                  Section
 - LIBAN ABDUBA              UGR/3781/12             1
+- JEBESSA DEJENE            UGR/0459/12             1
 - NAOL KECHA                UGR/6903/12             1
 - ABEL MEKONEN              UGR/7784/12             1
-- JEBESSA DEJENE            UGR/0459/12             1
 - METSNANAT ASFAW           UGR/7631/12             1
